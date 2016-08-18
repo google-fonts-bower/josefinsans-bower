@@ -1,0 +1,17 @@
+{
+    "name": "josefinsans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Santiago Orozco"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/josefinsans-bower.git"
+    },
+    "description": "Josefin Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
